@@ -146,7 +146,7 @@ int main()
 
         case 5:
             printf("\nProgram Exited Successfully.\n");
-            printf("\nName:OWORI JAMES.\n");
+            printf("\nName:JAMES.\n");
             printf("\nReg NO:2025/DCS/DAY/0516.\n");
             break;
 
